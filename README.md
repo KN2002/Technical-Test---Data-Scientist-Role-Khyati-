@@ -1,5 +1,5 @@
 
-# Project a Fake vs Real News ML classification. 
+# Project: Fake vs Real News ML classification. 
 This repository is my submission for the technical test for the AI incubator team Data Scientist Role. 
 The project was done entirely on R and I have included the main R markdown file as the main analysis script as well as the knitted pdf file. 
 The datasets - that of - true.cv and false.csv are not included in this repository because of Github upload limits. 
